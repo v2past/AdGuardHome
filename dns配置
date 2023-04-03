@@ -1,0 +1,18 @@
+#上游DNS
+223.5.5.5
+119.29.29.29
+tls://dot.360.cn
+https://doh.360.cn/dns-query
+tls://dns.pub
+https://dns.pub/dns-query
+tls://dns.alidns.com
+https://dns.alidns.com/dns-query
+tls://dns.ipv6dns.com
+https://dns.ipv6dns.com/dns-query
+
+#Bootstrap DNS 服务器
+202.96.209.5
+202.96.199.133
+149.112.112.10
+1.1.1.1
+8.8.8.8
